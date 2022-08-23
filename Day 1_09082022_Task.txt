@@ -8,11 +8,11 @@
             HTTP2 -   No resources are blocked, if one resoucre is not loaded. As it loads resources 
                             using multiple streams(Multiplexing).
 
-        	  HTTP1.1 - It transfers all the requests and response in plain text messages form.
-	  HTTP2 -    It works on binary framing layer, it converts all the message to binary format.
+            HTTP1.1 - It transfers all the requests and response in plain text messages form.
+	    HTTP2 -    It works on binary framing layer, it converts all the message to binary format.
 
-	  HTTP1.1 - It compresses data by itself.
-	  HTTP2 -    It uses HPACK for data compression.
+	    HTTP1.1 - It compresses data by itself.
+	    HTTP2 -    It uses HPACK for data compression.
 
             HTTP2 is faster than HTTP1.1, But we use HTTP1.1 majorly as it is standarized protocol.
 
@@ -30,9 +30,9 @@
                                      respectively according to the context.
 
             Syntax : objectName.propertyName
-	      e.g., : var Student = new Object();
-                              Student.name = 'Rashmi';
+	        e.g., : var Student = new Object();
+                               Student.name = 'Rashmi';
 
 
-	  In the above example Student is object and name is property and 'Rashmi' is value of property
+	    In the above example Student is object and name is property and 'Rashmi' is value of property
                 name. And student name is key and 'Rashmi' is value.
