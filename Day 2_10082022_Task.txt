@@ -30,4 +30,7 @@
         5. document.title :                           |         window.Location : 
              will return the title of the .           |          will return the location of the content area of
              document                                 |          the browser.
+           -------------------------------------------|---------------------------------------------------------------------
+        6. Example : document.title                   |         Example : window.innerHeight
+                     'Guvi Task day-2'                |                   746
             
